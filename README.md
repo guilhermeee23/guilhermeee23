@@ -24,9 +24,9 @@
 
 <div align="center">
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeee23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeee23&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
