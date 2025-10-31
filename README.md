@@ -20,26 +20,8 @@
 
 ---
 
-## 🌱 Sobre mim
-
-- 📚 Sempre em busca de aprender novas tecnologias e boas práticas de desenvolvimento.  
-- 🧠 Atualmente estudando **Java**, **Angular** e **boas práticas de arquitetura de software**.  
-- 🎯 Objetivo: me tornar um desenvolvedor **Full Stack** com foco em soluções eficientes e bem estruturadas.  
-
----
-
-## 🧩 Projetos em destaque
-
-🔹 [Sistema de Gerenciamento de Notas Acadêmicas (Android)](https://github.com/seu-usuario/seu-repositorio)  
-🔹 [Aplicativo de Presença com QR Code e Geolocalização (Flutter)](https://github.com/seu-usuario/seu-repositorio)  
-🔹 [Microblog com API REST em Spring Boot](https://github.com/seu-usuario/seu-repositorio)
-
-*(Atualize com seus links reais 😉)*
-
----
-
-## 📬 Onde me encontrar
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=lin)]()
+![Guilhe]()
